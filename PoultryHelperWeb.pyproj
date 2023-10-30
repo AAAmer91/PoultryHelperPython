@@ -40,6 +40,7 @@
     <Folder Include="PoultryHelperWeb\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PoultryHelperWeb\templates\sample1.html" />
     <Content Include="requirements.txt" />
     <Content Include="PoultryHelperWeb\static\content\bootstrap.css" />
     <Content Include="PoultryHelperWeb\static\content\bootstrap.min.css" />

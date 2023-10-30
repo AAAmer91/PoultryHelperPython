@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\aaame\source\repos\PoultryHelperWeb\.\app.publish\</_PublishTargetUrl>
+    <History>True|2023-10-30T09:51:10.3481188Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="PoultryHelperWeb/static/content/bootstrap.css">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/content/bootstrap.min.css">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/content/site.css">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/bootstrap.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/bootstrap.min.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery-1.10.2.intellisense.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery-1.10.2.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery-1.10.2.min.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery-1.10.2.min.map">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery.validate-vsdoc.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery.validate.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery.validate.min.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery.validate.unobtrusive.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/modernizr-2.6.2.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/respond.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/respond.min.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/static/scripts/_references.js">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/templates/about.html">
+      <publishTime>10/27/2023 14:46:38</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/templates/contact.html">
+      <publishTime>10/30/2023 10:51:06</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/templates/index.html">
+      <publishTime>10/27/2023 14:45:53</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/templates/layout.html">
+      <publishTime>10/30/2023 10:57:05</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/templates/sample1.html">
+      <publishTime>10/30/2023 11:40:05</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/views.py">
+      <publishTime>10/30/2023 10:57:44</publishTime>
+    </File>
+    <File Include="PoultryHelperWeb/__init__.py">
+      <publishTime>10/27/2023 01:06:42</publishTime>
+    </File>
+    <File Include="requirements.txt">
+      <publishTime>10/27/2023 01:03:53</publishTime>
+    </File>
+    <File Include="runserver.py">
+      <publishTime>10/27/2023 01:06:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
